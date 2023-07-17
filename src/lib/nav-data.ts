@@ -10,5 +10,13 @@ export const navData = [
 	{
 		title: 'Produtos',
 		path: '/produtos'
+	},
+	{
+		title: 'Formulario',
+		path: '/forms'
+	},
+	{
+		title: 'Props e Atributos',
+		path: '/props-atributos'
 	}
 ];

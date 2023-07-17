@@ -1,1 +1,4 @@
-<h1>aqui é pagina pricipal</h1>
+<script>
+</script>
+
+<section class="w-10/12 mx-auto py-24" />
