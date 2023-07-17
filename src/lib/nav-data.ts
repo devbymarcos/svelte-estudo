@@ -1,22 +1,18 @@
 export const navData = [
 	{
-		title: 'home',
+		title: 'Inicio',
 		path: '/'
 	},
 	{
-		title: 'Sobre',
-		path: '/sobre'
-	},
-	{
-		title: 'Produtos',
-		path: '/produtos'
-	},
-	{
-		title: 'Formulario',
-		path: '/forms'
+		title: 'Reatividade',
+		path: '/reatividade'
 	},
 	{
 		title: 'Props e Atributos',
 		path: '/props-atributos'
+	},
+	{
+		title: 'Formulário',
+		path: '/forms'
 	}
 ];
